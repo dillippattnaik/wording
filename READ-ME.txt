@@ -1,0 +1,8 @@
+#use following to build with Maven
+mvn install 
+
+#the generated war will be in the path 
+word\target\word-1.0-SNAPSHOT.war
+
+# testing url after deploying (assuming tomcat is running on 8080 port)
+http://localhost:8080/word-1.0-SNAPSHOT/wording/999999999
