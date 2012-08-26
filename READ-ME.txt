@@ -1,4 +1,4 @@
-#use following to build with Maven
+#build with Maven from root folder where this read me file is present
 mvn install 
 
 #the generated war will be in the path 
